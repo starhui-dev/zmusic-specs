@@ -44,17 +44,16 @@ The first planned specification is the ZMusic V4 plugin message protocol.
 
 ## Related Repositories
 
-* [ZMusic Plugin](https://github.com/zmusic-dev/zmusic-plugin) - Server plugin
+* [ZMusic Plugin](https://github.com/starhui-dev/zmusic-plugin) - Server plugin
 
 ## License
 
 Specifications and documentation in this repository are licensed under [CC BY 4.0](LICENSE).
 
-[banner]: https://socialify.git.ci/starhui-dev/zmusic-specs/image?description=1&forks=1&issues=1&name=1&pulls=1&stargazers=1&theme=Auto
+[banner]: https://socialify.git.ci/starhui-dev/zmusic-specs/image?description=1&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto
 
 [license]: https://img.shields.io/github/license/starhui-dev/zmusic-specs?style=for-the-badge
 
 [last-commit]: https://img.shields.io/github/last-commit/starhui-dev/zmusic-specs?style=for-the-badge
 
 [repo-size]: https://img.shields.io/github/repo-size/starhui-dev/zmusic-specs?style=for-the-badge
-

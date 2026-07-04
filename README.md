@@ -44,17 +44,16 @@ ZMusic Specs 用于维护 ZMusic 项目之间共享的规范。
 
 ## 相关仓库
 
-* [ZMusic Plugin](https://github.com/zmusic-dev/zmusic-plugin) - 服务端插件
+* [ZMusic Plugin](https://github.com/starhui-dev/zmusic-plugin) - 服务端插件
 
 ## 开源协议
 
 本仓库中的规范和文档使用 [CC BY 4.0](LICENSE) 协议发布。
 
-[banner]: https://socialify.git.ci/starhui-dev/zmusic-specs/image?description=1&forks=1&issues=1&name=1&pulls=1&stargazers=1&theme=Auto
+[banner]: https://socialify.git.ci/starhui-dev/zmusic-specs/image?description=1&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto
 
 [license]: https://img.shields.io/github/license/starhui-dev/zmusic-specs?style=for-the-badge
 
 [last-commit]: https://img.shields.io/github/last-commit/starhui-dev/zmusic-specs?style=for-the-badge
 
 [repo-size]: https://img.shields.io/github/repo-size/starhui-dev/zmusic-specs?style=for-the-badge
-

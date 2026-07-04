@@ -44,17 +44,16 @@ ZMusic Specs は、ZMusic プロジェクト間で共有する仕様を管理す
 
 ## 関連リポジトリ
 
-* [ZMusic Plugin](https://github.com/zmusic-dev/zmusic-plugin) - サーバープラグイン
+* [ZMusic Plugin](https://github.com/starhui-dev/zmusic-plugin) - サーバープラグイン
 
 ## ライセンス
 
 このリポジトリの仕様と文書は [CC BY 4.0](LICENSE) の下で公開されています。
 
-[banner]: https://socialify.git.ci/starhui-dev/zmusic-specs/image?description=1&forks=1&issues=1&name=1&pulls=1&stargazers=1&theme=Auto
+[banner]: https://socialify.git.ci/starhui-dev/zmusic-specs/image?description=1&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto
 
 [license]: https://img.shields.io/github/license/starhui-dev/zmusic-specs?style=for-the-badge
 
 [last-commit]: https://img.shields.io/github/last-commit/starhui-dev/zmusic-specs?style=for-the-badge
 
 [repo-size]: https://img.shields.io/github/repo-size/starhui-dev/zmusic-specs?style=for-the-badge
-
