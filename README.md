@@ -23,7 +23,7 @@ ZMusic Specs 用于维护 ZMusic 项目之间共享的规范。
 
 本仓库适合维护：
 
-* 插件消息通信协议
+* 通信包协议
 * 跨仓库 API 契约
 * 兼容性策略
 * JSON Schema 和协议测试样例
@@ -38,9 +38,9 @@ ZMusic Specs 用于维护 ZMusic 项目之间共享的规范。
 
 ## 当前状态
 
-本仓库正在为 ZMusic V4 协议工作做准备。
+本仓库正在为 ZMusic 协议工作做准备。
 
-第一份计划维护的规范是 ZMusic V4 插件消息通信协议。
+第一份计划维护的规范是 [ZMusic 通信包协议](protocol/packet-protocol.md)。
 
 ## 相关仓库
 

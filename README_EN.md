@@ -23,7 +23,7 @@ This repository is the source of truth for contracts shared by the server plugin
 
 This repository is for:
 
-* Plugin message protocols
+* Packet protocols
 * Cross-repository API contracts
 * Compatibility policies
 * JSON schemas and protocol test vectors
@@ -38,9 +38,9 @@ This repository is not for:
 
 ## Status
 
-This repository is being prepared for ZMusic V4 protocol work.
+This repository is being prepared for ZMusic protocol work.
 
-The first planned specification is the ZMusic V4 plugin message protocol.
+The first planned specification is the [ZMusic packet protocol](protocol/packet-protocol.md).
 
 ## Related Repositories
 
